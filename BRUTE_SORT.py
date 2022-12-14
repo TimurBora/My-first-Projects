@@ -12,7 +12,7 @@ def sort(arr):
     return arr
                 
 
-ARR = [77, 46, 11, 89, 48, 14, 67, 73, 22, 26]
-print(sort(ARR))
+ARR = [x for x in range 100]
+print(sort(ARR[::-1]))
         
             
