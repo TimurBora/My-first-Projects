@@ -12,7 +12,7 @@ def sort(arr):
     return arr
                 
 
-ARR = [x for x in range 100]
+ARR = [x for x in range(100)]
 print(sort(ARR[::-1]))
         
             
